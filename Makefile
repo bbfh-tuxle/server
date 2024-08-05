@@ -1,5 +1,5 @@
 VERSION := v0.0.1
-BINARY_NAME := test
+BINARY_NAME := tuxle
 
 run:
 	go run main.go
